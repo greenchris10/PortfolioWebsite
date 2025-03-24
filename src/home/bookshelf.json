@@ -4,7 +4,7 @@
         "author": "Guiltythree",
         "desc": "I can't get enough of the Lord of Shadows",
         "progress": 80,
-        "img": "bookshelf/shadowslave.webp"
+        "img": "/bookshelf/shadowslave.webp"
     },
 
     {
@@ -12,7 +12,7 @@
         "author": "M. L. Wang",
         "desc": "Took a break from reading this. I'm restarting from the beginning",
         "progress": 40,
-        "img": "bookshelf/kaigen.png"
+        "img": "/bookshelf/kaigen.png"
     },
 
     {
@@ -20,7 +20,7 @@
         "author": "Alex Xu",
         "desc": "Never took a system design class in undergrad.. We all got to start somewhere :)",
         "progress": 40,
-        "img": "bookshelf/alex.jpg"
+        "img": "/bookshelf/alex.jpg"
     },
 
     {
@@ -28,7 +28,7 @@
         "author": "Gayle Laakmann McDowell",
         "desc": "I will be a leetcode God! mwhahahahah!",
         "progress": 10,
-        "img": "bookshelf/cracking.jpg"   
+        "img": "/bookshelf/cracking.jpg"   
     },
 
     {
@@ -36,7 +36,7 @@
         "author": "Frank Herbert",
         "desc": "*stands on desk* I am Paul Muad'Dib Atreides, Duke of Arrakis ! ",
         "progress": 100,
-        "img": "bookshelf/dune.jpg" 
+        "img": "/bookshelf/dune.jpg" 
     },
 
     {
@@ -44,7 +44,7 @@
         "author": "Rifujin na Magonote",
         "desc": "The light novels hit different ",
         "progress": 100,
-        "img": "bookshelf/mushoku.jpg"
+        "img": "/bookshelf/mushoku.jpg"
     },
 
     {
@@ -52,7 +52,7 @@
         "author": "Eiichiro Oda",
         "desc": "Goat Piece ",
         "progress": 100,
-        "img": "bookshelf/onepiece.jpg"
+        "img": "/bookshelf/onepiece.jpg"
     },
 
     {
@@ -60,7 +60,7 @@
         "author": "Slave In Utero",
         "desc": "OMG, I'm literally Urek Mazino ",
         "progress": 65,
-        "img": "bookshelf/tog.jpg"
+        "img": "/bookshelf/tog.jpg"
     },
 
     {
@@ -68,6 +68,6 @@
         "author": "Gege Akutami",
         "desc": "Domain Expansion: Inifinite Aura",
         "progress": 100,
-        "img": "bookshelf/jjk.jpg"
+        "img": "/bookshelf/jjk.jpg"
     }
 ]
