@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Shadow Slave",
+        "author": "Guiltythree",
+        "desc": "I can't get enough of the Lord of Shadows",
+        "progress": 80,
+        "img": "bookshelf/shadowslave.webp"
+    },
+
+    {
+        "name": "The Sword of Kaigen: A Theonite War Story",
+        "author": "M. L. Wang",
+        "desc": "Took a break from reading this. I'm restarting from the beginning",
+        "progress": 40,
+        "img": "bookshelf/kaigen.png"
+    },
+
+    {
+        "name": "System Design Interview – An insider's guide",
+        "author": "Alex Xu",
+        "desc": "Never took a system design class in undergrad.. We all got to start somewhere :)",
+        "progress": 40,
+        "img": "bookshelf/alex.jpg"
+    },
+
+    {
+        "name": "Cracking the coding interview",
+        "author": "Gayle Laakmann McDowell",
+        "desc": "I will be a leetcode God! mwhahahahah!",
+        "progress": 10,
+        "img": "bookshelf/cracking.jpg"   
+    },
+
+    {
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "desc": "*stands on desk* I am Paul Muad'Dib Atreides, Duke of Arrakis ! ",
+        "progress": 100,
+        "img": "bookshelf/dune.jpg" 
+    },
+
+    {
+        "name": "Mushoku Tensei",
+        "author": "Rifujin na Magonote",
+        "desc": "The light novels hit different ",
+        "progress": 100,
+        "img": "bookshelf/mushoku.jpg"
+    },
+
+    {
+        "name": "One Piece",
+        "author": "Eiichiro Oda",
+        "desc": "Goat Piece ",
+        "progress": 100,
+        "img": "bookshelf/onepiece.jpg"
+    },
+
+    {
+        "name": "Tower Of God",
+        "author": "Slave In Utero",
+        "desc": "OMG, I'm literally Urek Mazino ",
+        "progress": 65,
+        "img": "bookshelf/tog.jpg"
+    },
+
+    {
+        "name": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "desc": "Domain Expansion: Inifinite Aura",
+        "progress": 100,
+        "img": "bookshelf/jjk.jpg"
+    }
+]

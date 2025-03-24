@@ -1,0 +1,125 @@
+/* Experience Container */
+.about-experience {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  
+  /* Experience Title */
+  .about-experience h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #2c3e50;
+    font-weight: 700;
+  }
+  
+  /* Experience Card Styling */
+  .about-experience .wentworth-RA,
+  .about-experience .bcbs-analyst,
+  .about-experience .bcbs-intern {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .about-experience .wentworth-RA:hover,
+  .about-experience .bcbs-analyst:hover,
+  .about-experience .bcbs-intern:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Organization and Title Styling */
+  .about-experience h3 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .about-experience h5 {
+    font-size: 18px;
+    color: #7f8c8d;
+    margin-top: 5px;
+    font-weight: 500;
+  }
+  
+  /* Years and Location Styling */
+  .about-experience h6 {
+    font-size: 16px;
+    color: #95a5a6;
+    margin-bottom: 20px;
+  }
+  
+  /* Description Text Styling */
+  .about-experience p {
+    color: #34495e;
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 1.7;
+  }
+
+  /* Education Container */
+.about-education {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  
+  /* Education Title */
+  .about-education h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #2c3e50;
+    font-weight: 700;
+  }
+  
+  /* Education Card Styling */
+  .about-education .education-graduate,
+  .about-education .education-undergraduate,
+  .about-education .education-highschool {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 30px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .about-education .education-graduate:hover,
+  .about-education .education-undergraduate:hover,
+  .about-education .education-highschool:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* School Name and Degree Styling */
+  .about-education h3 {
+    font-size: 24px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+  
+  .about-education h5 {
+    font-size: 18px;
+    color: #7f8c8d;
+    margin-top: 5px;
+    font-weight: 500;
+  }
+  
+  /* Description Text Styling */
+  .about-education p {
+    color: #34495e;
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 1.7;
+  }

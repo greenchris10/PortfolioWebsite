@@ -1,0 +1,26 @@
+
+.about-education {
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 50px;
+}
+
+h5 {
+    margin-top: 0%;
+    font-weight: lighter;
+}
+
+p {
+    font-weight: 100;
+}
+
+.about {
+    position: relative;
+    top: 6rem;
+}
+
+/*.education-graduate, .education-undergraduate, .education-highschool {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}*/

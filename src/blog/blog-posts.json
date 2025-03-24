@@ -1,0 +1,18 @@
+[
+    {
+        "id": "btm03242025",
+        "title": "The Art of Storytelling: Bottoms (2019)",
+        "date": "03-24-2025",
+        "summary": "Hollywood has a long history of treating queer characters with very specific (and often limiting) storytelling rules. Bottoms deliberately throws those rules out the window, creating a version of queer representation that feels fresh, chaotic, and rebellious.",
+        "content": "/posts/btm03242025.md"
+
+    },
+
+    {
+        "id": "adv08292024",
+        "title": "The Future of Adversarial Machine Learning",
+        "date": "08-29-2024",
+        "summary": "I am writing about the potential of adversarial attacks and how they could benefit society",
+        "content": "/posts/adv08292024.md"
+    }
+]

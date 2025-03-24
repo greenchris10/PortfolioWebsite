@@ -1,0 +1,6 @@
+const BlogList = ({post}) => {
+
+    return (
+
+    )
+}
