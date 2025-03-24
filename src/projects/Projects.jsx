@@ -45,7 +45,7 @@ const Projects = () => {
         title = "This Website"
         desc = "I wrote this entire personal portfolio from scratch in an attempt to learn some front-end development." 
         demo = ""
-        source = "" />
+        source = "https://github.com/greenchris10/PortfolioWebsite" />
         
         
       </div>
