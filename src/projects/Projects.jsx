@@ -36,6 +36,12 @@ const Projects = () => {
         source= "https://github.com/memoatwit/UniversalPerturbation" />
 
         <ProjectCard 
+        title = "Minimax 2048"
+        desc = "Developed a fully functional 2048 game with AI decision-making using Python and Pygame for visualization. Implemented the Minimax algorithm to create a two-player variant where the AI maximizes tile values while an adversary selects the least optimal moves."
+        demo = "https://youtu.be/6jMxJoMoccU"
+        source= "https://github.com/greenchris10/2048classicalAI?tab=readme-ov-file" />
+
+        <ProjectCard 
         title = "Naruto Handsign Detector"
         desc = "I used YOLOV8 to make a Naruto Handsign Detector. I deployed the web application using Flask." 
         demo = "https://youtu.be/YHR-6_uXUnc"
